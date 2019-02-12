@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6cf998fb93ee3854ba69e05cb8d43c84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullConnection: {fileID: 21300000, guid: 8719c32225eada6438ed2a449b257fd4, type: 3}
+  - emptyConnection: {fileID: 21300000, guid: 2f57cf992df2e8c40a723391c12697fd, type: 3}
+  - fullExcessConnection: {fileID: 21300000, guid: 5d7f981db046c4541996c4eabd1ccf1e,
+      type: 3}
+  - emptyExcessConnection: {fileID: 21300000, guid: 46b9e9dbd52f9334b97d25b5f3e58de6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
